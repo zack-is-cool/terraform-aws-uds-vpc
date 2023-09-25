@@ -4,6 +4,7 @@
 optConfig:
   optIn: true
 action: fix
+enforceDefault: true
 enforceBranches:
   - ci/allstar-test
 requireApproval: true
