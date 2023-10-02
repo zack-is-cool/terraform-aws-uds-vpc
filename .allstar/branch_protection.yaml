@@ -19,3 +19,4 @@ requireStatusChecks:
   - context: 'pre-commit / pre-commit-checks (common)'
   - context: 'pre-commit / pre-commit-checks (golang)'
   - context: 'test / e2e-commercial-insecure'
+  - context: 'test / e2e-govcloud-secure'

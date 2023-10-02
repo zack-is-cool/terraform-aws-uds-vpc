@@ -58,3 +58,6 @@ backend.tf
 examples/zarf-complete-example/build
 
 .vscode
+
+ignore
+

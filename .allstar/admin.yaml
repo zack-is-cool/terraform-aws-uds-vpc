@@ -1,0 +1,6 @@
+#see https://pkg.go.dev/github.com/ossf/allstar@v0.0.0-20230831154324-215510e57c2d/pkg/policies/admin
+
+optConfig:
+  optIn: true
+action: issue
+ownerlessAllowed: false
